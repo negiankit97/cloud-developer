@@ -16,7 +16,11 @@ export const config = {
     "host": "",
     "dialect": "postgres"
   },
+<<<<<<< HEAD
   "jwt": {
+=======
+  "jwt":{
+>>>>>>> master
     "secret": process.env.JWT_SECRET
   }
 }
