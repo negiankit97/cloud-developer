@@ -1,0 +1,1 @@
+DEPLOYED_ENDPOINT_URL=http://image-filter-ankit-dev-dev.ap-south-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
